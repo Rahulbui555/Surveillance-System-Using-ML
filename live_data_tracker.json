@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "survilliance-system-using-ml",
+  "private_key_id": "7b61deab67e7f8fece61d0d508e93265cc91042a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDe4rwTFq3cx3gi\nkFG6hpadpV3J14Oa5rZmTG2U+Rfe3QUqOylt4ucWkOV0b4x/tgkDXwKmyjNmKSW1\nacDOpQj7no1mBtMlaqWTpS6Zm0J3dVF9SLVdCdV6Bx9YkU6TKuiyPlCapTq5uBM5\njO9sccKNb+guTFNHVkW+E72i0w7796n6QWX0BTF/tyc3+f4FMp6J/v3rTeME5wmv\nLDVPxTXJsWjSjswQo4BNk91I4x6/ChBMTicnhw7pGRglRSabPPVbF3LVb4QxtMIi\neSGrlNrD7TfOZ5kGyin2NV6dga5NVrOa7DZjkIcLVtZxDH+wYVotwgJ7FOUkN22p\nVJsVOejxAgMBAAECggEANAb1I/eNShX9wwOxMDsueUoapHz8KXJlbWe1xKqImes5\nw2vf9dibXLch+JX5U+5oGDNbaReV++jq9nfjG9mGSUXvd7tsGjXUxKwwPobxcvUd\nuoL4YulivYNgG8p/bvb7LnBBXHfpR2Tih/KQCN5dLarLpdMHNYW77eypvZJK0yHD\nLVxJ+RRTtsuo/IBqXeD6XeZiYjgdr0I/JURW1pAR05kPTeTFfQSNY19fOZ/miZLh\nJ9+8drwHO/o4K7aCdxnPtZ0soUPkFpIXALTsjIlx/sUVxfDN6H2XY+qnTheuIbuN\n3c1ySy4NbNLiVCs0I0IWnSNGcUsNIj5CkhkNbHtC4QKBgQD0e7tKgHMyoA9qcDb7\nYqf0jI67NElIDXP6A8yTynvWfFtW4Q238wr0+hTKFHxTzMuxJP6nt0+NTMHTu44m\nSL75c7EOg3LOWHUje2ti801nC1CrIR8HsdO+VeWga9ZaXqqK2cawxGcB7iBTqGwz\nmCFwvLBTuutn8MxB7wVwEAO4zQKBgQDpYo2dhTQAwzewU829N2uRV7C3Tw6De3M4\nxtwZJ7onhArRZnmgHhjjjNk6nSONTmRYnVa4qVbVUK2L3oIeP+EJd95OH5Mx+a0r\nRgeqjCJkwdSqv3J5AxtwQMq4DotcnEdKxOgSg2k71knE93TRDptiG7n4CXdle8ma\n52XEaflAtQKBgQDxnkr2EUZINRmnJqmf/dthe3wgFUeLNwh0gUawlP+YdSRME3Vc\nY41jmLftExvgMdjpBFfMZwTu73nriEOvIFvk6mqEnnJa7d8upu31R+EqQmuCBOTG\n1P8f74JV7d1VSJOhUCLmVeQ7axx1sVDmGKaL5V8aEPRPsBId41xraNhUzQKBgQCu\ngHv2raRGdbDr7J1Gv2t0jyaYyUnG0cVDTJ1BSc0MwtP74i1KpXZinevGwbvVainp\ngCtZg3RjpyE8FbEgwQ6YL8JOk5lRoqfyVThiMsl8oNlMmj0TcllPw4JPwMA/DLLZ\nmwUS4qMKlJ0v4v67Wbqgzq5sYVeez8HcSuxywfIWiQKBgQDbPPARdhS8LPXuA7vB\nEIJKU0dqAlFagEQ+bcXhg25enxGYl/6/w4yX2bz/I2M1yhdIKCTc5IqaTauxTXPc\n4NzTIKpXqVwEw9m1ygoXE4hUP15sivvJvHgarQSi9r9X3O3g+3+zYEWSwyU7iPcc\nuzlJo8PAOWv0yJAQrMwNMYgcqA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tdnbp@survilliance-system-using-ml.iam.gserviceaccount.com",
+  "client_id": "114205103796307624276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tdnbp%40survilliance-system-using-ml.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
